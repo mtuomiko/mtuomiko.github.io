@@ -35,3 +35,9 @@ url = "https://github.com/mtuomiko/"
   weight = 200
   identifier = "projects"
   url = "/projects/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 300
+  identifier = "cv"
+  url = "/documents/cv-matti_tuomikoski.pdf"
