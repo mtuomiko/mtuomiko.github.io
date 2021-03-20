@@ -11,6 +11,8 @@ author = "Matti Tuomikoski"
 profilePicture = "images/profile.jpg"
 favicon = "favicons/"
 mainSections = []
+customCss = ["css/custom.css"]
+#copyright = "test"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -22,10 +24,15 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/mtuomiko/"
 
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mtuom@iki.fi"
+
 [menu]
 
   [[menu.main]]
-  name = "About"
+  name = "About me"
   identifier = "about"
   weight = 100
   url = "/"
