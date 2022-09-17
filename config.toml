@@ -38,6 +38,12 @@ url = "mailto:mtuom@iki.fi"
   url = "/"
 
   [[menu.main]]
+  name = "Experience"
+  weight = 200
+  identifier = "experience"
+  url = "/experience/"
+
+  [[menu.main]]
   name = "Projects"
   weight = 200
   identifier = "projects"
