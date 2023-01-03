@@ -53,4 +53,18 @@ url = "mailto:mtuom@iki.fi"
   name = "CV"
   weight = 300
   identifier = "cv"
-  url = "/documents/cv-matti_tuomikoski.pdf"
+  url = "/documents/cv-matti_tuomikoski.pdf"  
+  
+  [[menu.main]]
+  name = "GitHub"
+  weight = 300
+  identifier = "github_link"
+  url = "https://github.com/mtuomiko"
+
+  
+  [[menu.main]]
+  name = "LinkedIn"
+  weight = 300
+  identifier = "linkedin_link"
+  url = "https://www.linkedin.com/in/matti-tuomikoski-3034251b6"
+
